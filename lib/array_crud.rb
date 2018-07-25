@@ -1,13 +1,13 @@
 def create_an_empty_array
-  arr = []
+  array = []
 end
 
 def create_an_array
-  arr =  ["A", "B", "am", "E"]
+  array =  ["A", "B", "am", "E"]
 end
 
 def add_element_to_end_of_array(array, element)
-  arr << "arrays!"
+  array << "arrays!"
 end
 
 def add_element_to_start_of_array(array, element)
